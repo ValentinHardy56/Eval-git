@@ -1,14 +1,14 @@
 const books = [
   {
     "title": "Le Petit Prince",
-    "author": "Antoine de Saint-Exupéry"
+    "auteur": "Antoine de Saint-Exupéry"
   },
   {
     "title": "1984",
-    "author": "George Orwell"
+    "auteur": "George Orwell"
   },
   {
     "title": "Les Misérables",
-    "author": "Victor Hugo"
+    "auteur": "Victor Hugo"
   }
 ];
