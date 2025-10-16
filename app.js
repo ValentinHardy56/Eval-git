@@ -10,7 +10,7 @@ function renderBooks() {
     tr.appendChild(titleTd);
 
     const authorTd = document.createElement('td');
-    authorTd.textContent = book.auteur;
+    authorTd.textContent = book.author;
     tr.appendChild(authorTd);
 
     const actionsTd = document.createElement('td');
